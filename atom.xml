@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Stay hungry, stay foolish.</title>
   <icon>https://179652341.xyz/icon.png</icon>
-  
+  <subtitle>天的Blog</subtitle>
   <link href="https://179652341.xyz/atom.xml" rel="self"/>
   
   <link href="https://179652341.xyz/"/>

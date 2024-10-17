@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>天的BLOG</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://179652341.xyz/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://179652341.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-10-15T06:43:57.142Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://179652341.xyz/"/>
+  <updated>2024-10-17T02:35:49.057Z</updated>
+  <id>https://179652341.xyz/</id>
   
   <author>
     <name>天</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>archives</title>
+    <link href="https://179652341.xyz/2024/10/17/archives/"/>
+    <id>https://179652341.xyz/2024/10/17/archives/</id>
+    <published>2024-10-17T02:35:49.000Z</published>
+    <updated>2024-10-17T02:35:49.057Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>音乐演示功能</title>
-    <link href="http://example.com/2024/10/15/%E9%9F%B3%E4%B9%90%E6%BC%94%E7%A4%BA/"/>
-    <id>http://example.com/2024/10/15/%E9%9F%B3%E4%B9%90%E6%BC%94%E7%A4%BA/</id>
+    <link href="https://179652341.xyz/2024/10/15/%E9%9F%B3%E4%B9%90%E6%BC%94%E7%A4%BA/"/>
+    <id>https://179652341.xyz/2024/10/15/%E9%9F%B3%E4%B9%90%E6%BC%94%E7%A4%BA/</id>
     <published>2024-10-15T06:31:07.966Z</published>
     <updated>2024-10-15T06:43:57.142Z</updated>
     
@@ -33,23 +46,27 @@
   
   <entry>
     <title>代码块演示</title>
-    <link href="http://example.com/2024/10/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/"/>
-    <id>http://example.com/2024/10/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/</id>
+    <link href="https://179652341.xyz/2024/10/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/"/>
+    <id>https://179652341.xyz/2024/10/12/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/</id>
     <published>2024-10-12T03:22:03.795Z</published>
-    <updated>2024-10-12T07:04:48.467Z</updated>
+    <updated>2024-10-17T02:31:35.016Z</updated>
     
     
     <summary type="html">22222</summary>
     
     
     
+    <category term="test" scheme="https://179652341.xyz/categories/test/"/>
+    
+    
+    <category term="test2" scheme="https://179652341.xyz/tags/test2/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2024/10/11/test/"/>
-    <id>http://example.com/2024/10/11/test/</id>
+    <link href="https://179652341.xyz/2024/10/11/test/"/>
+    <id>https://179652341.xyz/2024/10/11/test/</id>
     <published>2024-10-10T16:00:31.000Z</published>
     <updated>2024-10-12T06:54:45.806Z</updated>
     
@@ -63,8 +80,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/10/10/hello-world/"/>
-    <id>http://example.com/2024/10/10/hello-world/</id>
+    <link href="https://179652341.xyz/2024/10/10/hello-world/"/>
+    <id>https://179652341.xyz/2024/10/10/hello-world/</id>
     <published>2024-10-10T13:56:14.340Z</published>
     <updated>2024-10-12T06:42:50.257Z</updated>
     
